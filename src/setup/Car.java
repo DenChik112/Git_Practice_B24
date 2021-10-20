@@ -1,6 +1,8 @@
 package setup;
 
 public class Car {
-    // this is a car from master branch
-    // conflict is possible because of different branch
+    // this is our car from james branch
+    // more text in this file
+    // not a master branch
+
 }
